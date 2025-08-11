@@ -83,3 +83,4 @@ This Docker setup launches a Create React App that displays:
 docker build -t valdez_hanz_coding_assignment11 .
 # assignment11
 # verceltest
+# verceltest
